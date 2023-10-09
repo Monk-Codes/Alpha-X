@@ -1,0 +1,22 @@
+@use "../abstract/variables" as variables;
+@use "../abstract/mixins" as mixins;
+@use "../abstract/functions" as functions;
+
+.u-center-text {
+ text-align: center;
+}
+.u-margin-bottom-big {
+ margin-bottom: 8rem !important;
+ @include mixins.respond(tab-p) {
+  margin-bottom: 5rem !important;
+ }
+}
+.u-margin-bottom-med {
+ margin-bottom: 4rem !important;
+ @include mixins.respond(tab-p) {
+  margin-bottom: 3rem !important;
+ }
+}
+.u-margin-bottom-small {
+ margin-bottom: 2rem !important;
+}

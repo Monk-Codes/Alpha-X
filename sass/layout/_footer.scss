@@ -1,0 +1,71 @@
+@use "../abstract/mixins" as mixins;
+
+.footer {
+ background-color: #222024;
+ color: #f7f7f7;
+ padding: 1rem 0;
+ font-size: 1.4rem;
+
+ &__logo-box {
+  text-align: center;
+  margin-bottom: 2rem;
+  @include mixins.respond(tab-p) {
+   margin-bottom: 0rem;
+  }
+ }
+ &__logo {
+  width: 30rem;
+  height: auto;
+  @include mixins.respond(tab-p) {
+   width: 80%;
+   height: 10rem;
+  }
+ }
+ &__navigation {
+  border-top: 1px solid #f7f7f7;
+  padding-top: 2rem;
+  display: inline-block;
+  @include mixins.respond(tab-p) {
+   width: 100%;
+   text-align: center;
+  }
+ }
+ &__list {
+  list-style: none;
+ }
+ &__item {
+  display: inline-block;
+  &:not(:last-child) {
+   margin-right: 1.5rem;
+  }
+ }
+ &__link {
+  &:link,
+  &:visited {
+   color: #f7f7ff;
+   text-decoration: none;
+   text-transform: uppercase;
+   display: inline-block;
+   transition: all 0.2s;
+  }
+  &:hover,
+  &:active {
+   color: cornflowerblue;
+   box-shadow: 0 1rem 2rem rgba($color: #000000, $alpha: 0.4);
+   transform: rotate(1deg) scale(1.1);
+  }
+ }
+ &__copyright {
+  cursor: help;
+  border-top: 1px solid #f7f7f7;
+  padding-top: 2rem;
+  text-align: center;
+  width: 100%;
+  float: right;
+  @include mixins.respond(tab-p) {
+   width: 100%;
+   text-align: center;
+   float: none;
+  }
+ }
+}
