@@ -20,7 +20,7 @@ html {
  }
 
  @include mixins.respond(phone) {
-  font-size: 30%;
+  font-size: 10%;
  }
  @include mixins.respond(b-desk) {
   font-size: 75%;
