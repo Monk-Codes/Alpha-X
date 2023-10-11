@@ -1,11 +1,12 @@
 .loader {
- position: fixed;
+ position: absolute;
  min-height: 100vh;
- min-width: 100%;
+ width: 100%;
  z-index: 9999;
- overflow: hidden;
+ overflow: visible;
  background: black url(../../img/load.gif) no-repeat center center;
  animation: loaderDelay 1.5s ease-in 1 forwards;
+ background-size: contain;
 }
 @keyframes loaderDelay {
  0% {
