@@ -23,11 +23,11 @@ body {
   animation: moveInLeft 2s 1s;
   @include mixins.respond(tab-p) {
    letter-spacing: 1rem;
-   font-size: 5rem;
+   font-size: 4rem;
   }
   @include mixins.respond(phone) {
    letter-spacing: 1rem;
-   font-size: 4rem;
+   font-size: 3rem;
   }
  }
 
@@ -38,8 +38,8 @@ body {
   letter-spacing: 0.5rem;
   animation: moveInRight 2s 1s;
   @include mixins.respond(phone) {
-   letter-spacing: 0.5rem;
-   font-size: 3rem;
+   letter-spacing: 0.2rem;
+   font-size: 1rem;
   }
  }
 }
