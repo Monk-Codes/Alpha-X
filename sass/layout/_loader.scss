@@ -1,6 +1,7 @@
 .loader {
  position: fixed;
  min-height: 100vh;
+ min-width: 100%;
  z-index: 9999;
  overflow: hidden;
  background: black url(../../img/load.gif) no-repeat center center;
