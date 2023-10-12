@@ -16,6 +16,9 @@
  }
  @include mixins.respond(phone) {
   transform: skewX(0);
+  font-size: 1rem;
+  width: 100%;
+  padding: 8rem;
  }
 
  &__shape {
@@ -64,6 +67,8 @@
   transform: skewX(12deg);
   @include mixins.respond(phone) {
    transform: skewX(0deg);
+   margin-top: 15rem;
+   text-align: center;
   }
  }
 }

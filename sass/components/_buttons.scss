@@ -16,6 +16,10 @@
   border: none;
   cursor: pointer;
   animation: moveInBottom 2s 1s;
+  @include mixins.respond(phone) {
+   padding: 1rem 0;
+   font-size: 1rem;
+  }
  }
  &:hover {
   transform: translateY(-3px);
