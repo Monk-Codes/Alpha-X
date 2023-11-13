@@ -1,6 +1,6 @@
 # Aplha-X
 ## Fitness Studio Landing Page
-- [Live Demo](https://Alpha-X.netlify.app/)
+- [Live Demo](https://Alpha-dx.netlify.app/)
 <br/>
 <p align="center">
 <img src="logo.png" alt="image" width="400" height="300">
