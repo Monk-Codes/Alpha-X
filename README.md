@@ -1,29 +1,29 @@
-# Aplha-X
+# Alpha-X
 ## Fitness Studio Landing Page
 - [Live Demo](https://Alpha-dx.netlify.app/)
 <br/>
 <p align="center">
 <img src="logo.png" alt="image" width="400" height="300">
-  <a href="https://github.com/MonkCodes/Aplha-X">
+  <a href="https://github.com/MonkCodes/Alpha-X">
   </a>
-  <h3 align="center">Aplha-X</h3>
+  <h3 align="center">Alpha-X</h3>
 
   <p align="center">
     Fitness Webpage
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/Aplha-X"><strong>Fitness Studio Landing Page »</strong></a>
+    <a href="https://github.com/MonkCodes/Alpha-X"><strong>Fitness Studio Landing Page »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/Aplha-X">View Demo</a>
+    <a href="https://github.com/MonkCodes/Alpha-X">View Demo</a>
     .
-    <a href="https://github.com/MonkCodes/Aplha-X/issues">Report Bug</a>
+    <a href="https://github.com/MonkCodes/Alpha-X/issues">Report Bug</a>
     .
-    <a href="https://github.com/MonkCodes/Aplha-X/issues">Request Feature</a>
+    <a href="https://github.com/MonkCodes/Alpha-X/issues">Request Feature</a>
   </p>
 </p>
 
-![Forks](https://img.shields.io/github/forks/MonkCodes/Aplha-X?style=social) ![Stargazers](https://img.shields.io/github/stars/MonkCodes/Aplha-X?style=social) 
+![Forks](https://img.shields.io/github/forks/MonkCodes/Alpha-X?style=social) ![Stargazers](https://img.shields.io/github/stars/MonkCodes/Alpha-X?style=social) 
 
 ## Table Of Contents
 
