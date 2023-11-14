@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
 <img src="logo.png" alt="image" width="400" height="300">
-  <a href="https://github.com/MonkCodes/Alpha-X">
+  <a href="https://github.com/Monk-Codes/Alpha-X">
   </a>
   <h3 align="center">Alpha-X</h3>
 
@@ -12,18 +12,18 @@
     Fitness Webpage
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/Alpha-X"><strong>Fitness Studio Landing Page »</strong></a>
+    <a href="https://github.com/Monk-Codes/Alpha-X"><strong>Fitness Studio Landing Page »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/Alpha-X">View Demo</a>
+    <a href="https://github.com/Monk-Codes/Alpha-X">View Demo</a>
     .
-    <a href="https://github.com/MonkCodes/Alpha-X/issues">Report Bug</a>
+    <a href="https://github.com/Monk-Codes/Alpha-X/issues">Report Bug</a>
     .
-    <a href="https://github.com/MonkCodes/Alpha-X/issues">Request Feature</a>
+    <a href="https://github.com/Monk-Codes/Alpha-X/issues">Request Feature</a>
   </p>
 </p>
 
-![Forks](https://img.shields.io/github/forks/MonkCodes/Alpha-X?style=social) ![Stargazers](https://img.shields.io/github/stars/MonkCodes/Alpha-X?style=social) 
+![Forks](https://img.shields.io/github/forks/Monk-Codes/Alpha-X?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/Alpha-X?style=social) 
 
 ## Table Of Contents
 
@@ -62,7 +62,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/MonkCodes//issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Monk-Codes//issues) for a list of proposed features (and known issues).
 
 ### Creating A Pull Request
 
